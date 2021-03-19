@@ -1,11 +1,8 @@
-@charset "utf-8";
-
 #achtergrond {
 	background-image: url("../images/dogs.jpg");
-	text-align: center;
 	color: white;
 }
 
-.dog {
-	height: 170px;
+.player {
+	height: 300px;
 }
