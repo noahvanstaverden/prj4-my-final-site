@@ -7,5 +7,6 @@
 }
 
 .dog {
-	height: 170px;
+	height: auto;
+	width: 100%;
 }
